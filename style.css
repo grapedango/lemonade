@@ -1,0 +1,24 @@
+/* style.css */
+body {
+  font-family: Overpass;
+  color: #404042;
+  font-size: 18px;
+  font-family: 'Corinthia', cursive;
+}
+
+h1, h2, h3 {
+  font-family: Chivo;
+  font-family: 'Corinthia', cursive;
+}
+
+a {
+  color: #1A48E3;
+  font-weight: lighter;
+  text-decoration: none;
+  transition: .3s;
+  font-family: 'Corinthia', cursive;
+}
+
+a:hover {
+  color: #CE2FAE;
+}/* Write some CSS below */
